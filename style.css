@@ -1,0 +1,29 @@
+.forms {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+main,
+footer,
+header {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.treecontainer {
+  padding: 5px;
+  margin: 10px 0 0 20px;
+  background: grey;
+  border-color: blue;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.hidden  {
+  display: none;
+}
+
+button {
+  display: block;
+}
