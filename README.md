@@ -13,9 +13,11 @@ Then create DB-schema 'kit' in MySQL, import kit.sql from mysql folder into 'kit
 
 Set the appropriate settings in config.php file (DB_NAME, DB_USER, DB_PASSWORD, DB_HOST);
 
+Start or restart OpenServer.
+
 ## Usage
 
-Follow [kit-test-task](https://kit-test-task/) in your browser.
+Happy hacking [kit-test-task](https://kit-test-task/) in your browser.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
