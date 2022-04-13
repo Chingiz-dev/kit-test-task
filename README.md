@@ -18,6 +18,8 @@ Start or restart OpenServer.
 ## Usage
 
 Happy hacking [kit-test-task](https://kit-test-task/) in your browser.
+Default login: admin
+Default passwords: admin
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
